@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "551969122399",
+    "firebase_url": "https://event-sample-5cdf6.firebaseio.com",
+    "project_id": "event-sample-5cdf6",
+    "storage_bucket": "event-sample-5cdf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551969122399:android:a3ca6ccb805620114c53ea",
+        "android_client_info": {
+          "package_name": "com.swarup.eventsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551969122399-reb8ailroi7gecnegt5jl8lkarb0jpdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9aeEUi_9R28e4q-GVnTF5-JJMRvgnRSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551969122399-reb8ailroi7gecnegt5jl8lkarb0jpdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
